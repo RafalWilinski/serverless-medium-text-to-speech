@@ -1,0 +1,14 @@
+* {
+  font-family: Interface;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+@font-face {
+  font-family: Interface;
+  src: url('../fonts/Interface-Regular.woff');
+}

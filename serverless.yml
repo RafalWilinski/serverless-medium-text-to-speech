@@ -1,6 +1,16 @@
 service: serverless-medium-transcriptions
 
+package:
+  exclude:
+    - front/**
+    - assets/**
+    - LICENSE
+    - README.md
+    - sample-article.json
+
 custom:
+  serverless-offline:
+    port: 1337
   s3:
     bucket: serverless-medium-transcriptions
 
@@ -49,10 +59,4 @@ resources:
             - "*"
             AllowedHeaders:
             - "*"
-  Outputs:
-    UploadBucketArn:
-      Value:
-        "Fn::GetAtt": [ UploadBucket, Arn ]
-      Export:
-        Name: UploadBucketArn
 
