@@ -5,7 +5,8 @@
   "main": "transcoder.js",
   "dependencies": {
     "axios": "^0.16.2",
-    "serverless-offline": "^3.15.3"
+    "serverless-offline": "^3.15.3",
+    "uuid": "^3.1.0"
   },
   "scripts": {
     "dev": "nodemon --exec serverless offline"

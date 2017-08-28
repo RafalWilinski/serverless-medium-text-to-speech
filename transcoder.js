@@ -3,6 +3,7 @@
 const AWS = require("aws-sdk");
 const axios = require("axios");
 const fs = require("fs");
+const uuid = require("uuid/v1");
 
 const s3 = new AWS.S3({ region: "us-east-1" });
 const polly = new AWS.Polly({ region: "us-east-1" });
@@ -12,25 +13,28 @@ const createResponse = (body, statusCode) => ({
   body: JSON.stringify(body)
 });
 
-const upload = audioStreams =>
-  Promise.all(
-    audioStreams.map(audioStream => {
-      return s3
-        .upload({
-          ACL: "public-read",
-          ContentType: "audio/mp3",
-          Bucket: process.env.TRANSCRIPTS_BUCKET,
-          Key: audioStream.key,
-          Body: audioStream.buffer,
-          StorageClass: "REDUCED_REDUNDANCY"
-        })
-        .promise()
-        .then(data => data.Location);
+const upload = audioStream =>
+  s3
+    .upload({
+      ACL: "public-read",
+      ContentType: "audio/mp3",
+      Bucket: process.env.TRANSCRIPTS_BUCKET,
+      Key: uuid(),
+      Body: audioStream,
+      StorageClass: "REDUCED_REDUNDANCY"
     })
+    .promise()
+    .then(data => data.Location);
+
+const join = audioStreams =>
+  audioStreams.reduce(
+    (total, buffer) =>
+      Buffer.concat([total, buffer], total.length + buffer.length),
+    Buffer.alloc(1)
   );
 
-const synthesize = ({ title, subtitle, text }) => {
-  const transcript = `${title}. ${subtitle}. ${text}`;
+const synthesize = ({ title, text }) => {
+  const transcript = `${title}. ${text}`;
 
   // Due to AWS Polly character restrictions, we have to split our text into chunks.
   const splittedText = transcript.match(/.{1500}/g);
@@ -45,10 +49,7 @@ const synthesize = ({ title, subtitle, text }) => {
           Text: chunk
         })
         .promise()
-        .then(data => ({
-          buffer: data.AudioStream,
-          key: `${title}-${index}`
-        }));
+        .then(data => data.AudioStream);
     })
   );
 };
@@ -62,7 +63,6 @@ const downloadArticle = (url, callback) =>
 
     return {
       title: json.payload.value.title,
-      subtitle: json.payload.value.content.subtitle,
       text
     };
   });
@@ -72,9 +72,8 @@ module.exports.handle = (event, context, callback) => {
 
   downloadArticle(url, callback)
     .then(synthesize)
-    .then(audioStreams => {
-      return upload(audioStreams);
-    })
+    .then(join)
+    .then(upload)
     .then(location => {
       callback(null, createResponse({ location }));
     })
