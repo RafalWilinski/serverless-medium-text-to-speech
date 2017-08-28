@@ -9,10 +9,16 @@
     "uuid": "^3.1.0"
   },
   "scripts": {
-    "dev": "nodemon --exec serverless offline"
+    "backend": "nodemon --exec serverless offline",
+    "front": "cd front && npm start",
+    "dev": "concurrently --names \"BACKEND,FRONTEND\" -c \"bgBlue.bold,bgMagenta.bold\" \"npm run backend\" \"npm run front\" --kill-others",
+    "deploy-front": "cd front && npm run build && node ./deploy.js",
+    "deploy-api": "sls deploy -s production",
+    "deploy": "npm run deploy-api && npm run deploy-front"
   },
   "devDependencies": {
     "aws-sdk": "^2.104.0",
+    "concurrently": "^3.5.0",
     "nodemon": "^1.11.0"
   },
   "author": {

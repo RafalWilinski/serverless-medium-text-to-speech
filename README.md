@@ -24,12 +24,12 @@ To run project in development mode, locally:
 npm run dev
 ```
 
-Deploy to AWS Lambda:
+Deploy to API to AWS Lambda & Frontend to S3:
 ```
-sls deploy
+npm run deploy
 ```
 
-## Usage & Example
+## API Usage & Example
 ```bash
 curl -X POST \
   https://bt1wb4iwpf.execute-api.us-east-1.amazonaws.com/dev/transcode \

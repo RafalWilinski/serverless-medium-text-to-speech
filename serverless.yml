@@ -12,7 +12,7 @@ custom:
   serverless-offline:
     port: 1337
   s3:
-    bucket: serverless-medium-transcriptions
+    bucket: serverless-medium-transcriptions-${opt:stage}
 
 provider:
   name: aws
