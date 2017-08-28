@@ -1,0 +1,58 @@
+service: serverless-medium-transcriptions
+
+custom:
+  s3:
+    bucket: serverless-medium-transcriptions
+
+provider:
+  name: aws
+  runtime: nodejs6.10
+  environment:
+    TRANSCRIPTS_BUCKET: ${self:custom.s3.bucket}
+  iamRoleStatements:
+    - Effect: 'Allow'
+      Action:
+        - 's3:*'
+      Resource: '*'
+    - Effect: 'Allow'
+      Action:
+        - 'polly:SynthesizeSpeech'
+      Resource: '*'
+
+functions:
+  transcoder:
+    handler: transcoder.handle
+    events:
+      - http:
+          path: transcode
+          method: post
+          cors: true
+
+plugins:
+  - serverless-offline
+
+resources:
+  Resources:
+    UploadBucket:
+      Type: AWS::S3::Bucket
+      Properties:
+        BucketName: ${self:custom.s3.bucket}
+        AccessControl: PublicRead
+        CorsConfiguration:
+          CorsRules:
+          - AllowedMethods:
+            - GET
+            - PUT
+            - POST
+            - HEAD
+            AllowedOrigins:
+            - "*"
+            AllowedHeaders:
+            - "*"
+  Outputs:
+    UploadBucketArn:
+      Value:
+        "Fn::GetAtt": [ UploadBucket, Arn ]
+      Export:
+        Name: UploadBucketArn
+

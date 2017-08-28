@@ -1,0 +1,1129 @@
+{
+  "success": true,
+  "payload": {
+    "value": {
+      "id": "21e9ce36f2b7",
+      "versionId": "47daa1667553",
+      "creatorId": "caa51e5ba081",
+      "homeCollectionId": "b230ea2a6eb8",
+      "title": "11 Reasons I Sacrifice Money To Work Wherever I Want",
+      "detectedLanguage": "en",
+      "latestVersion": "47daa1667553",
+      "latestPublishedVersion": "47daa1667553",
+      "hasUnpublishedEdits": false,
+      "latestRev": 903,
+      "createdAt": 1503089190124,
+      "updatedAt": 1503919406031,
+      "acceptedAt": 0,
+      "firstPublishedAt": 1503329596042,
+      "latestPublishedAt": 1503329596042,
+      "vote": false,
+      "experimentalCss": "",
+      "displayAuthor": "",
+      "content": {
+        "subtitle": "“A good traveller has no fixed plans and is not intent on arriving.”",
+        "bodyModel": {
+          "paragraphs": [
+            {
+              "name": "7672",
+              "type": 3,
+              "text": "11 Reasons I Sacrifice Money To Work Wherever I Want",
+              "markups": []
+            },
+            {
+              "name": "c232",
+              "type": 4,
+              "text": "Image via Pexels",
+              "markups": [
+                {
+                  "type": 3,
+                  "start": 10,
+                  "end": 16,
+                  "href": "https://www.pexels.com/photo/adult-book-business-cactus-297755/",
+                  "title": "",
+                  "rel": "",
+                  "anchorType": 0
+                }
+              ],
+              "layout": 3,
+              "metadata": {
+                "id": "0*DXRwgudcP2ii432N.jpeg",
+                "originalWidth": 1433,
+                "originalHeight": 935
+              }
+            },
+            {
+              "name": "6935",
+              "type": 7,
+              "text": "“A good traveller has no fixed plans and is not intent on arriving.”",
+              "markups": []
+            },
+            { "name": "e606", "type": 7, "text": "-Lao Tzu", "markups": [] },
+            {
+              "name": "c2f3",
+              "type": 1,
+              "text": "This isn’t another “Quit your job and be a digital nomad!” article. This is a piece about a personal choice of mine, and some of the reasons I made it.",
+              "markups": []
+            },
+            {
+              "name": "9bc1",
+              "type": 1,
+              "text": "Two years ago I became a Digital Nomad. One year ago I drove 4,000 miles across the country to live in San Francisco for a couple months. I drove back in the Fall.",
+              "markups": []
+            },
+            {
+              "name": "2739",
+              "type": 1,
+              "text": "These days I’m plotting my next destination. Will it be Peru? Argentina? Thailand?",
+              "markups": []
+            },
+            {
+              "name": "c595",
+              "type": 1,
+              "text": "In any case, you’re starting to see the reasons I chose this lifestyle in the first place. Yeah, I don’t make a lot of money. In fact, I’ve never made more than $30,000 a year (freelance life), but when you’re free of physical places it opens up your world to a ton of possibilities.",
+              "markups": []
+            },
+            {
+              "name": "d13d",
+              "type": 1,
+              "text": "Here are the reasons I choose a Digital Nomad lifestyle despite not making a lot of money.",
+              "markups": []
+            },
+            {
+              "name": "fff3",
+              "type": 3,
+              "text": "1. My Income Goes Much Farther",
+              "markups": []
+            },
+            {
+              "name": "c4c5",
+              "type": 1,
+              "text": "In The 4-Hour Work Week, Tim Ferriss says money is multiplied in practical value depending on the number of W’s you control in your life: What you do, when you do it, where you do it, and who you do it with.",
+              "markups": [{ "type": 2, "start": 3, "end": 23 }]
+            },
+            {
+              "name": "b23b",
+              "type": 1,
+              "text": "When you’re an average Digital Nomad, you control at least two of these four criteria, but when you’re a good Digital Nomad, you control all four.",
+              "markups": []
+            },
+            {
+              "name": "38df",
+              "type": 1,
+              "text": "I was able to control three of those four in San Francisco, which has the most expensive real estate prices in the world.",
+              "markups": []
+            },
+            {
+              "name": "a95f",
+              "type": 4,
+              "text": "",
+              "markups": [],
+              "layout": 3,
+              "metadata": {
+                "id": "1*rjuoqsoqQP79lWNqm-D-lA.jpeg",
+                "originalWidth": 6786,
+                "originalHeight": 3884
+              }
+            },
+            {
+              "name": "cefd",
+              "type": 1,
+              "text": "I controlled who I stayed with (my best friend), where I worked (in his house rent-free), and when I worked.",
+              "markups": []
+            },
+            {
+              "name": "ad49",
+              "type": 1,
+              "text": "That allowed me to live on $600 a week during July, August, and September.",
+              "markups": []
+            },
+            {
+              "name": "33e2",
+              "type": 1,
+              "text": "Now, I was a beneficiary of incredible generosity here, but the principle stays the same. I wouldn’t have gone to San Francisco if I didn’t control two of those three variables. Because I could, I did.",
+              "markups": []
+            },
+            {
+              "name": "4e68",
+              "type": 1,
+              "text": "Think about it. If you work in New York City, you have to pay rent prices there. Your salary IS high, but rent prices pretty much take half of it away before it lands in your hands.",
+              "markups": []
+            },
+            {
+              "name": "2749",
+              "type": 1,
+              "text": "Imagine working remotely for an office in New York City from an apartment in Thailand.",
+              "markups": []
+            },
+            {
+              "name": "4c4b",
+              "type": 1,
+              "text": "Now you’re thinking.",
+              "markups": []
+            },
+            {
+              "name": "b0cf",
+              "type": 3,
+              "text": "2. Money Isn’t Everything To Me Anyway",
+              "markups": []
+            },
+            {
+              "name": "3928",
+              "type": 1,
+              "text": "A lot of my friends work in sales, live downtown near the Harbor in Baltimore, and generally have a pretty fancy lifestyle going out in Fells Point on Fridays and Saturdays.",
+              "markups": []
+            },
+            {
+              "name": "9e14",
+              "type": 1,
+              "text": "That’s cool, I’m happy for them.",
+              "markups": []
+            },
+            {
+              "name": "f3ff",
+              "type": 1,
+              "text": "I know them. What drives their decisions is primarily money. Can you blame them? We got bills to pay!",
+              "markups": []
+            },
+            {
+              "name": "3274",
+              "type": 1,
+              "text": "I know about 50 percent of the equation is paying bills, but there’s also a large portion of their soul that wants as much money as possible.",
+              "markups": []
+            },
+            {
+              "name": "e964",
+              "type": 1,
+              "text": "Heck, I want money too, but it’s not my end game. My end game is to make it to Thailand — I don’t care if I’m making $300 a year or $300,000.",
+              "markups": []
+            },
+            {
+              "name": "a990",
+              "type": 1,
+              "text": "That’s why I chose this lifestyle, not one in downtown Baltimore.",
+              "markups": []
+            },
+            {
+              "name": "e017",
+              "type": 3,
+              "text": "3. Adventure Is My Currency",
+              "markups": []
+            },
+            {
+              "name": "e340",
+              "type": 6,
+              "text": "“Instead of trying to make life perfect, give yourself the freedom to make it an adventure, and go ever upward.”",
+              "markups": []
+            },
+            {
+              "name": "4f5b",
+              "type": 6,
+              "text": "-Drew Houston",
+              "markups": []
+            },
+            {
+              "name": "5869",
+              "type": 1,
+              "text": "You can’t have that many adventures from a desk.",
+              "markups": []
+            },
+            {
+              "name": "9a09",
+              "type": 3,
+              "text": "4. Because Obligations Don’t Exist",
+              "markups": []
+            },
+            {
+              "name": "4d1b",
+              "type": 1,
+              "text": "I don’t know where I’ll be five months from now. Heck, I may not even know where I’ll be tomorow.",
+              "markups": []
+            },
+            {
+              "name": "8424",
+              "type": 1,
+              "text": "I’ve spent the last year of my life working from the home I grew up in. I never thought I’d come back again, but here I am spending more time with my Mom than my actual friends.",
+              "markups": []
+            },
+            {
+              "name": "912d",
+              "type": 1,
+              "text": "If I had a traditional job, I would be in a city somewhere with an apartment and obligations.",
+              "markups": []
+            },
+            {
+              "name": "0c76",
+              "type": 1,
+              "text": "Because I didn’t go that path, there are no obligations for me anymore.",
+              "markups": []
+            },
+            {
+              "name": "ebc1",
+              "type": 1,
+              "text": "I am fully free to go to Peru, Argentina, the Philippines, France, or wherever (as long as that place has wi-fi).",
+              "markups": []
+            },
+            {
+              "name": "1750",
+              "type": 3,
+              "text": "5. I Get To Enjoy Extra Time With My Family",
+              "markups": []
+            },
+            {
+              "name": "6b5f",
+              "type": 11,
+              "text": "",
+              "markups": [],
+              "layout": 1,
+              "iframe": {
+                "mediaResourceId": "b797de45b139a31df7be9fc27b8aad02",
+                "iframeWidth": 640,
+                "iframeHeight": 405,
+                "thumbnailUrl": "https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent-iad3-1.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F14726319_1598809997091176_2997105239452024832_n.jpg&key=a19fcc184b9711e1b4764040d3dc5c07"
+              }
+            },
+            {
+              "name": "1930",
+              "type": 1,
+              "text": "I’m a 24-year-old Digital Nomad who’s spent significant time away from home the last three years. Trust me when I say it’s nice to be around my family now.",
+              "markups": []
+            },
+            {
+              "name": "d9e7",
+              "type": 1,
+              "text": "Many people graduated college and went right back home to live. They never left.",
+              "markups": []
+            },
+            {
+              "name": "6d1a",
+              "type": 1,
+              "text": "I did. I left the first second I could. I lived in Orlando for a year before traveling all around the country.",
+              "markups": []
+            },
+            {
+              "name": "f375",
+              "type": 1,
+              "text": "Because I spent significant time away, it feels so nice to be around them now. I can come and go as I please. I know my sister would probably like to spend some time with us, but she can’t because of her job in the South.",
+              "markups": []
+            },
+            {
+              "name": "4f64",
+              "type": 1,
+              "text": "Since I choose where I can work, I get to spend time with my family who I miss. It’s an incredible feeling.",
+              "markups": []
+            },
+            {
+              "name": "8410",
+              "type": 3,
+              "text": "6. I Can Re-Connect With My Friends",
+              "markups": []
+            },
+            {
+              "name": "637e",
+              "type": 1,
+              "text": "When I graduated from my 8-month internship in Disney three years ago, I thought I’d never see much of my best friends again.",
+              "markups": []
+            },
+            {
+              "name": "b720",
+              "type": 1,
+              "text": "Much to my surprise, I’ve gotten to see all of them multiple times since.",
+              "markups": []
+            },
+            {
+              "name": "cd4e",
+              "type": 1,
+              "text": "It’s been surreal.",
+              "markups": []
+            },
+            {
+              "name": "be30",
+              "type": 1,
+              "text": "Every book you read and person you talk to says friendships disintegrate as you grow up, but mine have flourished!",
+              "markups": []
+            },
+            {
+              "name": "e95b",
+              "type": 1,
+              "text": "I’ve enjoyed this metaphorical utopia and it seems only I know the location of it.",
+              "markups": []
+            },
+            {
+              "name": "49a9",
+              "type": 1,
+              "text": "People say life after college sucks, but it hasn’t been that way for me. My best friends have stayed best friends, and words can’t describe how much of a blessing it’s been.",
+              "markups": []
+            },
+            {
+              "name": "5c7d",
+              "type": 3,
+              "text": "7. I Really Enjoy Being By Myself",
+              "markups": []
+            },
+            {
+              "name": "6a22",
+              "type": 6,
+              "text": "“Writing is something you do alone. Its a profession for introverts who want to tell you a story but don’t want to make eye contact while doing it.”",
+              "markups": []
+            },
+            { "name": "8067", "type": 6, "text": "-John Green", "markups": [] },
+            {
+              "name": "e2ac",
+              "type": 1,
+              "text": "I’m as introverted as you can get. I love being alone. I don’t like the commotion of offices and wouldn’t be able to thrive in that environment.",
+              "markups": []
+            },
+            {
+              "name": "6958",
+              "type": 1,
+              "text": "It’s so calming to be away from everybody for 9+ hours of the day. It actually makes me look forward to when my brother and Dad get home. I’m ready to be social, not drained from 8+ hours in the company of people I may or may not hate.",
+              "markups": []
+            },
+            {
+              "name": "4cb2",
+              "type": 3,
+              "text": "8. Because I Can Work How I Want",
+              "markups": []
+            },
+            {
+              "name": "283f",
+              "type": 1,
+              "text": "I’ll be honest, I spend copious amounts of my day with bulky headphones on blasting ASMR videos (gently, of course).",
+              "markups": []
+            },
+            {
+              "name": "94a2",
+              "type": 1,
+              "text": "Besides ASMR being the greatest thing ever invented, it’s also pretty awesome to be able to do that and not get questioned about it from a Manager.",
+              "markups": []
+            },
+            {
+              "name": "c39e",
+              "type": 1,
+              "text": "To me, that in and of itself is worth a $10,000 pay cut with no health benefits.",
+              "markups": []
+            },
+            {
+              "name": "3075",
+              "type": 3,
+              "text": "9. Because I Like Inspiring People",
+              "markups": []
+            },
+            {
+              "name": "6467",
+              "type": 6,
+              "text": "“If your actions inspire others to dream more, learn more, do more and become more, you are a leader.”",
+              "markups": []
+            },
+            {
+              "name": "882d",
+              "type": 6,
+              "text": "-John Quincy Adams",
+              "markups": []
+            },
+            {
+              "name": "35f2",
+              "type": 1,
+              "text": "I’m not saying I’m Adventurous Kate or something, but I have had a good amount of people get in contact with me to say they want to live my lifestyle, too.",
+              "markups": [
+                {
+                  "type": 3,
+                  "start": 19,
+                  "end": 35,
+                  "href": "http://www.adventurouskate.com/",
+                  "title": "",
+                  "rel": "",
+                  "anchorType": 0
+                }
+              ]
+            },
+            {
+              "name": "192a",
+              "type": 4,
+              "text": "",
+              "markups": [],
+              "layout": 1,
+              "metadata": {
+                "id": "1*mqp3JeY-P8ZBZT4b4VMdqQ.jpeg",
+                "originalWidth": 1350,
+                "originalHeight": 1011
+              }
+            },
+            {
+              "name": "aa13",
+              "type": 1,
+              "text": "I wasn’t the first to do this. I learned from others, and was inspired by others also. The reason I write about it is because I know there’s plenty more who simply hate the life they’re living right now and want more adventure.",
+              "markups": []
+            },
+            {
+              "name": "c623",
+              "type": 1,
+              "text": "I’m here to let them know they can get it if they really want it.",
+              "markups": []
+            },
+            {
+              "name": "bafd",
+              "type": 1,
+              "text": "And that quite frankly is addicting.",
+              "markups": []
+            },
+            {
+              "name": "17ed",
+              "type": 3,
+              "text": "10. Because I Really Enjoy Knocking Off Work at Noon On A Friday",
+              "markups": []
+            },
+            {
+              "name": "c869",
+              "type": 1,
+              "text": "This one’s self-explanatory. I mean, come on.",
+              "markups": []
+            },
+            {
+              "name": "2701",
+              "type": 3,
+              "text": "11. Because I Wouldn’t Actually Be Living",
+              "markups": []
+            },
+            {
+              "name": "45fd",
+              "type": 6,
+              "text": "“The mystery of human existence lies not in just staying alive, but in finding something to live for.”",
+              "markups": []
+            },
+            {
+              "name": "2fac",
+              "type": 6,
+              "text": "-Fyodor Dostoyevsky",
+              "markups": []
+            },
+            {
+              "name": "f085",
+              "type": 1,
+              "text": "I remember two years ago when I was working for $8.50 an hour at Panera Bread. This was three months after I graduated.",
+              "markups": []
+            },
+            {
+              "name": "e43a",
+              "type": 1,
+              "text": "I knew that if I quit, I’d have no guaranteed source of income for myself. I knew I had about $800 in savings that would just barely cover student loan bills for next month.",
+              "markups": []
+            },
+            {
+              "name": "2227",
+              "type": 1,
+              "text": "I knew by all accounts it would be a horrible financial decision.",
+              "markups": []
+            },
+            {
+              "name": "cbcf",
+              "type": 1,
+              "text": "But I also knew that I’d be betraying myself and my purpose if I kept doing something I hated.",
+              "markups": []
+            },
+            {
+              "name": "3e36",
+              "type": 1,
+              "text": "It would mean sacrificing who I really was — the person that was clawing at the walls trying desperately to get out of the life I made for myself.",
+              "markups": []
+            },
+            {
+              "name": "c5bd",
+              "type": 1,
+              "text": "To me, that’s worse than any adverse financial situation you could be in.",
+              "markups": []
+            },
+            {
+              "name": "8701",
+              "type": 1,
+              "text": "Luckily I did decide to go through with it.",
+              "markups": []
+            },
+            {
+              "name": "3a70",
+              "type": 1,
+              "text": "I realized that it’s more important to stay true to yourself than seek momentary financial benefit.",
+              "markups": []
+            },
+            {
+              "name": "9d13",
+              "type": 1,
+              "text": "In the end, that’s really why I sacrifice money to work wherever I want anyway.",
+              "markups": []
+            },
+            {
+              "name": "87e9",
+              "type": 1,
+              "text": "I am a full-time Digital Nomad and travel quite a bit. If you want to learn how to work wherever you want, download my ebook called “You Work Where?”",
+              "markups": [
+                {
+                  "type": 3,
+                  "start": 133,
+                  "end": 148,
+                  "href": "http://eepurl.com/cyDOWv",
+                  "title": "",
+                  "rel": "nofollow noopener nofollow noopener nofollow noopener",
+                  "anchorType": 0
+                },
+                { "type": 1, "start": 0, "end": 149 }
+              ]
+            },
+            {
+              "name": "91c2",
+              "type": 13,
+              "text": "If you enjoyed this story, please click the 👏 button and share to help others find it! Feel free to leave a comment below.",
+              "markups": []
+            },
+            {
+              "name": "5e4b",
+              "type": 13,
+              "text": "The Mission publishes stories, videos, and podcasts that make smart people smarter. You can subscribe to get them here.",
+              "markups": [
+                {
+                  "type": 3,
+                  "start": 114,
+                  "end": 118,
+                  "href": "http://themission.us15.list-manage.com/subscribe?u=ddfd5f3d0e1c6d4d7eb8587ba&id=cd5c7dfa37",
+                  "title": "",
+                  "rel": "",
+                  "anchorType": 0
+                }
+              ]
+            }
+          ],
+          "sections": [
+            { "name": "a490", "startIndex": 0 },
+            { "name": "8ead", "startIndex": 9 },
+            { "name": "ca40", "startIndex": 20 },
+            { "name": "976c", "startIndex": 27 },
+            { "name": "af75", "startIndex": 31 },
+            { "name": "f951", "startIndex": 37 },
+            { "name": "ce22", "startIndex": 44 },
+            { "name": "f9ee", "startIndex": 51 },
+            { "name": "868c", "startIndex": 56 },
+            { "name": "78eb", "startIndex": 60 },
+            { "name": "08e6", "startIndex": 68 },
+            { "name": "0ecb", "startIndex": 70 },
+            { "name": "5416", "startIndex": 83 }
+          ]
+        },
+        "postDisplay": { "coverless": true }
+      },
+      "virtuals": {
+        "statusForCollection": "APPROVED",
+        "allowNotes": true,
+        "previewImage": {
+          "imageId": "0*DXRwgudcP2ii432N.jpeg",
+          "filter": "",
+          "backgroundSize": "",
+          "originalWidth": 1433,
+          "originalHeight": 935,
+          "strategy": "resample",
+          "height": 0,
+          "width": 0
+        },
+        "wordCount": 1540,
+        "imageCount": 3,
+        "readingTime": 6.3613207547169806,
+        "subtitle": "“A good traveller has no fixed plans and is not intent on arriving.”",
+        "publishedInCount": 1,
+        "usersBySocialRecommends": [],
+        "recommends": 150,
+        "isBookmarked": false,
+        "tags": [
+          {
+            "slug": "travel",
+            "name": "Travel",
+            "postCount": 141075,
+            "virtuals": { "isFollowing": false },
+            "metadata": {
+              "followerCount": 1317664,
+              "postCount": 141075,
+              "coverImage": { "id": "1*_yra0Ypvf2zplyb0VSoQPA.jpeg" }
+            },
+            "type": "Tag"
+          },
+          {
+            "slug": "life",
+            "name": "Life",
+            "postCount": 174781,
+            "virtuals": { "isFollowing": false },
+            "metadata": {
+              "followerCount": 1061166,
+              "postCount": 174781,
+              "coverImage": { "id": "1*0sJtn9WT-yfCMX8S8LyYVg.jpeg" }
+            },
+            "type": "Tag"
+          },
+          {
+            "slug": "entrepreneurship",
+            "name": "Entrepreneurship",
+            "postCount": 144903,
+            "virtuals": { "isFollowing": false },
+            "metadata": {
+              "followerCount": 979776,
+              "postCount": 144903,
+              "coverImage": { "id": "1*tiyoLq9F0Yofv9gUOgwAFw.jpeg" }
+            },
+            "type": "Tag"
+          },
+          {
+            "slug": "digital-nomads",
+            "name": "Digital Nomads",
+            "postCount": 4545,
+            "virtuals": { "isFollowing": false },
+            "metadata": {
+              "followerCount": 1657,
+              "postCount": 4545,
+              "coverImage": {
+                "id": "0*DXRwgudcP2ii432N.jpeg",
+                "originalWidth": 1433,
+                "originalHeight": 935
+              }
+            },
+            "type": "Tag"
+          },
+          {
+            "slug": "work",
+            "name": "Work",
+            "postCount": 17754,
+            "virtuals": { "isFollowing": false },
+            "metadata": {
+              "followerCount": 2882,
+              "postCount": 17754,
+              "coverImage": {
+                "id": "1*sSMvaXxkNl3GP7KAVsU06w.jpeg",
+                "originalWidth": 5616,
+                "originalHeight": 3744
+              }
+            },
+            "type": "Tag"
+          }
+        ],
+        "socialRecommendsCount": 0,
+        "responsesCreatedCount": 9,
+        "links": {
+          "entries": [
+            {
+              "url": "http://themission.us15.list-manage.com/subscribe?u=ddfd5f3d0e1c6d4d7eb8587ba&id=cd5c7dfa37",
+              "alts": [],
+              "httpStatus": 200
+            },
+            {
+              "url": "http://www.adventurouskate.com/",
+              "alts": [],
+              "httpStatus": 200
+            },
+            {
+              "url": "http://eepurl.com/cyDOWv",
+              "alts": [],
+              "httpStatus": 200
+            },
+            {
+              "url": "https://www.pexels.com/photo/adult-book-business-cactus-297755/",
+              "alts": [],
+              "httpStatus": 200
+            }
+          ],
+          "version": "0.3",
+          "generatedAt": 1503329596748
+        },
+        "isLockedPreviewOnly": false,
+        "takeoverId": "",
+        "metaDescription": "",
+        "totalClapCount": 815,
+        "sectionCount": 13
+      },
+      "coverless": true,
+      "slug": "11-reasons-i-sacrifice-money-to-work-wherever-i-want",
+      "translationSourcePostId": "",
+      "translationSourceCreatorId": "",
+      "isApprovedTranslation": false,
+      "inResponseToPostId": "",
+      "inResponseToRemovedAt": 0,
+      "isTitleSynthesized": true,
+      "allowResponses": true,
+      "importedUrl": "",
+      "importedPublishedAt": 0,
+      "visibility": 0,
+      "uniqueSlug": "11-reasons-i-sacrifice-money-to-work-wherever-i-want-21e9ce36f2b7",
+      "previewContent": {
+        "bodyModel": {
+          "paragraphs": [
+            {
+              "name": "7672",
+              "type": 3,
+              "text": "11 Reasons I Sacrifice Money To Work Wherever I Want",
+              "markups": [],
+              "alignment": 1
+            },
+            {
+              "name": "c232",
+              "type": 4,
+              "text": "",
+              "markups": [
+                {
+                  "type": 3,
+                  "start": 10,
+                  "end": 16,
+                  "href": "https://www.pexels.com/photo/adult-book-business-cactus-297755/",
+                  "title": "",
+                  "rel": "",
+                  "anchorType": 0
+                }
+              ],
+              "layout": 10,
+              "metadata": {
+                "id": "0*DXRwgudcP2ii432N.jpeg",
+                "originalWidth": 1433,
+                "originalHeight": 935
+              }
+            },
+            {
+              "name": "6935",
+              "type": 7,
+              "text": "“A good traveller has no fixed plans and is not…",
+              "markups": [],
+              "alignment": 1
+            }
+          ],
+          "sections": [{ "startIndex": 0 }]
+        },
+        "isFullContent": false
+      },
+      "license": 0,
+      "inResponseToMediaResourceId": "",
+      "canonicalUrl": "https://medium.com/the-mission/11-reasons-i-sacrifice-money-to-work-wherever-i-want-21e9ce36f2b7",
+      "approvedHomeCollectionId": "b230ea2a6eb8",
+      "newsletterId": "",
+      "webCanonicalUrl": "https://medium.com/the-mission/11-reasons-i-sacrifice-money-to-work-wherever-i-want-21e9ce36f2b7",
+      "mediumUrl": "https://medium.com/the-mission/11-reasons-i-sacrifice-money-to-work-wherever-i-want-21e9ce36f2b7",
+      "migrationId": "",
+      "notifyFollowers": true,
+      "notifyTwitter": false,
+      "isSponsored": false,
+      "isRequestToPubDisabled": false,
+      "notifyFacebook": false,
+      "responseHiddenOnParentPostAt": 0,
+      "isSeries": false,
+      "isSubscriptionLocked": false,
+      "seriesLastAppendedAt": 0,
+      "audioVersionDurationSec": 0,
+      "sequenceId": "",
+      "isNsfw": false,
+      "premiumTier": 1,
+      "isEligibleForRevenue": false,
+      "type": "Post"
+    },
+    "mentionedUsers": [],
+    "collaborators": [],
+    "membershipPlans": [],
+    "collectionUserRelations": [],
+    "mode": null,
+    "references": {
+      "User": {
+        "caa51e5ba081": {
+          "userId": "caa51e5ba081",
+          "name": "Tom Kuegler",
+          "username": "tomkuegler",
+          "createdAt": 1464748958041,
+          "lastPostCreatedAt": 1503718893721,
+          "imageId": "0*tTAPa1OpXhAKVs_W.",
+          "backgroundImageId": "",
+          "bio": "Millennial. 24. Contributor at The Huffington Post. Published on Thought Catalog. Travel blogger. Get weekly Medium tips from me →http://bit.ly/2wwCtfv",
+          "twitterScreenName": "",
+          "socialStats": {
+            "userId": "caa51e5ba081",
+            "usersFollowedCount": 7946,
+            "usersFollowedByCount": 10426,
+            "type": "SocialStats"
+          },
+          "social": {
+            "userId": "lo_febcd7f789ea",
+            "targetUserId": "caa51e5ba081",
+            "type": "Social"
+          },
+          "facebookAccountId": "10153917981953153",
+          "allowNotes": 1,
+          "mediumMemberAt": 1490218317000,
+          "type": "User"
+        }
+      },
+      "Collection": {
+        "b230ea2a6eb8": {
+          "id": "b230ea2a6eb8",
+          "name": "The Mission",
+          "slug": "the-mission",
+          "tags": [
+            "TECH",
+            "ENTREPRENEURSHIP",
+            "STARTUP",
+            "LIFE",
+            "LIFE LESSONS"
+          ],
+          "creatorId": "8804c3026cce",
+          "description": "We publish stories, videos, and podcasts to make smart people smarter. Subscribe to our newsletter to get them! www.TheMission.co",
+          "shortDescription": "We publish stories, videos, and podcasts to make smart…",
+          "image": {
+            "imageId": "1*lweRCs77VRPCrZvX8Sv-Jg.png",
+            "filter": "",
+            "backgroundSize": "",
+            "originalWidth": 180,
+            "originalHeight": 180,
+            "strategy": "resample",
+            "height": 0,
+            "width": 0
+          },
+          "metadata": { "followerCount": 342515, "activeAt": 1503796507613 },
+          "virtuals": {
+            "permissions": {
+              "canPublish": false,
+              "canPublishAll": false,
+              "canRepublish": false,
+              "canRemove": false,
+              "canManageAll": false,
+              "canSubmit": false,
+              "canEditPosts": false,
+              "canAddWriters": false,
+              "canViewStats": false,
+              "canSendNewsletter": false,
+              "canViewLockedPosts": false,
+              "canViewCloaked": false,
+              "canEditOwnPosts": false,
+              "canBeAssignedAuthor": false,
+              "canEnrollInHightower": false,
+              "canLockPostsForMediumMembers": false
+            },
+            "isSubscribed": false,
+            "isNewsletterSubscribed": false,
+            "memberOfMembershipPlanId": "",
+            "isEnrolledInHightower": false
+          },
+          "logo": {
+            "imageId": "1*EfWc2jdGY89opF70Aa1h3Q.png",
+            "filter": "",
+            "backgroundSize": "",
+            "originalWidth": 600,
+            "originalHeight": 125,
+            "strategy": "resample",
+            "height": 0,
+            "width": 0
+          },
+          "twitterUsername": "TheMissionT",
+          "facebookPageName": "TheMissionInc",
+          "publicEmail": "Lacey@TheMission.co",
+          "collectionMastheadId": "c8aef899c6d5",
+          "sections": [
+            {
+              "type": 2,
+              "collectionHeaderMetadata": {
+                "backgroundImage": {},
+                "logoImage": {
+                  "id": "1*w-1RuA3zKI1IQtwp11aF9w@2x.png",
+                  "originalWidth": 2008,
+                  "originalHeight": 338,
+                  "alt": "The Mission"
+                },
+                "alignment": 2,
+                "layout": 5
+              }
+            },
+            {
+              "type": 1,
+              "postListMetadata": {
+                "source": 1,
+                "layout": 7,
+                "number": 7,
+                "postIds": []
+              }
+            },
+            {
+              "type": 1,
+              "postListMetadata": {
+                "source": 1,
+                "layout": 4,
+                "number": 7,
+                "postIds": [],
+                "sectionHeader": "Latest"
+              }
+            },
+            {
+              "type": 1,
+              "postListMetadata": {
+                "source": 2,
+                "layout": 4,
+                "number": 25,
+                "postIds": [],
+                "sectionHeader": "Trending"
+              }
+            },
+            {
+              "type": 1,
+              "postListMetadata": {
+                "source": 2,
+                "layout": 4,
+                "number": 24,
+                "postIds": []
+              }
+            },
+            {
+              "type": 1,
+              "postListMetadata": {
+                "source": 3,
+                "layout": 4,
+                "number": 8,
+                "postIds": [
+                  "d6a8320bf712",
+                  "9db8b5f86db6",
+                  "f93d5a3b1309",
+                  "abc5cb9129e3",
+                  "f61e7578af7d",
+                  "a2c3972806ac",
+                  "84854eba5f13"
+                ]
+              }
+            },
+            {
+              "type": 1,
+              "postListMetadata": {
+                "source": 1,
+                "layout": 4,
+                "number": 23,
+                "postIds": [],
+                "sectionHeader": "Latest"
+              }
+            },
+            {
+              "type": 1,
+              "postListMetadata": {
+                "source": 1,
+                "layout": 4,
+                "number": 8,
+                "postIds": []
+              }
+            }
+          ],
+          "favicon": {
+            "imageId": "",
+            "filter": "",
+            "backgroundSize": "",
+            "originalWidth": 0,
+            "originalHeight": 0,
+            "strategy": "resample",
+            "height": 0,
+            "width": 0
+          },
+          "colorPalette": {
+            "defaultBackgroundSpectrum": {
+              "colorPoints": [
+                { "color": "#FF02B875", "point": 0 },
+                { "color": "#FF00AB6B", "point": 0.1 },
+                { "color": "#FF1C9963", "point": 0.2 },
+                { "color": "#FF092E20", "point": 1 }
+              ],
+              "backgroundColor": "#FFFFFFFF"
+            },
+            "highlightSpectrum": {
+              "colorPoints": [
+                { "color": "#FFFFFFFF", "point": 0 },
+                { "color": "#FFE9FDF0", "point": 0.1 },
+                { "color": "#FFE2FAEE", "point": 0.2 },
+                { "color": "#FFADFFCF", "point": 0.6 },
+                { "color": "#FF7DFFB3", "point": 1 }
+              ],
+              "backgroundColor": "#FFFFFFFF"
+            }
+          },
+          "navItems": [
+            {
+              "type": 2,
+              "title": "About",
+              "postId": "bc7452d0e762",
+              "url": "https://medium.com/the-mission/about-the-mission-bc7452d0e762",
+              "source": "postId"
+            },
+            {
+              "type": 1,
+              "title": "Tech & Business",
+              "tagSlug": "tech",
+              "url": "https://medium.com/the-mission/tagged/tech",
+              "source": "tagSlug"
+            },
+            {
+              "type": 1,
+              "title": "Life & Learning",
+              "tagSlug": "life",
+              "url": "https://medium.com/the-mission/tagged/life",
+              "source": "tagSlug"
+            },
+            {
+              "type": 1,
+              "title": "Health & Fitness",
+              "tagSlug": "health",
+              "url": "https://medium.com/the-mission/tagged/health",
+              "source": "tagSlug"
+            },
+            {
+              "type": 1,
+              "title": "Science & Makers",
+              "tagSlug": "science",
+              "url": "https://medium.com/the-mission/tagged/science",
+              "source": "tagSlug"
+            },
+            {
+              "type": 3,
+              "title": "Work With Us",
+              "url": "https://themission.co/work-with-us/"
+            }
+          ],
+          "colorBehavior": 1,
+          "instantArticlesState": 1,
+          "acceleratedMobilePagesState": 1,
+          "facebookPageId": "2057227817836137",
+          "googleAnalyticsId": "UA-97226040-1",
+          "collectionFeatures": [11, 10, 13],
+          "ampLogo": {
+            "imageId": "1*dz09ywmbiByfp2O-fnNKpQ.png",
+            "filter": "",
+            "backgroundSize": "",
+            "originalWidth": 600,
+            "originalHeight": 60,
+            "strategy": "resample",
+            "height": 0,
+            "width": 0
+          },
+          "header": {
+            "backgroundImage": {},
+            "logoImage": {
+              "id": "1*w-1RuA3zKI1IQtwp11aF9w@2x.png",
+              "originalWidth": 2008,
+              "originalHeight": 338,
+              "alt": "The Mission"
+            },
+            "alignment": 2,
+            "layout": 5
+          },
+          "paidForDomainAt": 1494376163362,
+          "type": "Collection"
+        }
+      },
+      "Social": {
+        "caa51e5ba081": {
+          "userId": "lo_febcd7f789ea",
+          "targetUserId": "caa51e5ba081",
+          "type": "Social"
+        }
+      },
+      "SocialStats": {
+        "caa51e5ba081": {
+          "userId": "caa51e5ba081",
+          "usersFollowedCount": 7946,
+          "usersFollowedByCount": 10426,
+          "type": "SocialStats"
+        }
+      }
+    }
+  },
+  "v": 3,
+  "b": "30411"
+}
