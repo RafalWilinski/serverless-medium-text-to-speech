@@ -13,6 +13,9 @@ create(
   },
   (err, website) => {
     if (err) {
+      console.error(
+        "Supplied domain is probably taken, try setting env variable BUCKET to something else."
+      );
       throw err;
     }
 
