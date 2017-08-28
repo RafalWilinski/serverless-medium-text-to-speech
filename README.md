@@ -1,6 +1,6 @@
 # serverless-medium-transcript
 
-Serverless service transcribing Medium articles into MP3 audio files.
+Serverless-based, text-to-speech service for Medium articles.
 
 ![Infrastructure Diagram](/assets/infra.png?raw=true "Infrastructure Diagram")
 
