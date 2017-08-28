@@ -10,6 +10,10 @@ const polly = new AWS.Polly({ region: "us-east-1" });
 
 const createResponse = (body, statusCode) => ({
   statusCode: statusCode || 200,
+  headers: {
+    "Access-Control-Allow-Origin": "*", // Required for CORS support to work
+    "Access-Control-Allow-Credentials": true // Required for cookies, authorization headers with HTTPS
+  },
   body: JSON.stringify(body)
 });
 
