@@ -1,4 +1,4 @@
-# serverless-medium-transcript
+# serverless-medium-text-to-speech
 
 Serverless-based, text-to-speech service for Medium articles.
 
