@@ -7,7 +7,7 @@ Serverless-based, text-to-speech service for Medium articles.
 ## DEMO
 [Demo here](http://medium-speech.s3.amazonaws.com/index.html)
 
-## Prerequisities:
+## Prerequisites:
 - Node.js > 6
 - Serverless Framework
 
