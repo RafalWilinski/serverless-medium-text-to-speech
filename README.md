@@ -18,7 +18,7 @@ Downloading project:
 ```
 git clone https://github.com/RafalWilinski/serverless-medium-speech
 cd serverless-medium-speech
-npm install
+npm install && cd front && yarn
 ```
 
 To run project in development mode, locally:
