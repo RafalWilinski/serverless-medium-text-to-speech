@@ -16,7 +16,7 @@ Serverless-based, text-to-speech service for Medium articles.
 Downloading project:
 
 ```
-git clone https://github.com/RafalWilinski/serverless-medium-speech
+git clone https://github.com/RafalWilinski/serverless-medium-text-to-speech
 cd serverless-medium-speech
 npm install && cd front && yarn
 ```
