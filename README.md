@@ -1,5 +1,7 @@
 # serverless-medium-text-to-speech
 
+[![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
+
 Serverless-based, text-to-speech service for Medium articles.
 
 ![Infrastructure Diagram](/assets/infra.png?raw=true "Infrastructure Diagram")
