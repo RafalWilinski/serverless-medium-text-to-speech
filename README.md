@@ -10,6 +10,7 @@ Serverless-based, text-to-speech service for Medium articles.
 [Demo here](http://medium-speech.s3.amazonaws.com/index.html)
 
 Deploy to your own AWS account:
+
 [![](https://v26mdkczs6.execute-api.us-east-1.amazonaws.com/dev/image?url=https://github.com/RafalWilinski/serverless-medium-text-to-speech)](https://v26mdkczs6.execute-api.us-east-1.amazonaws.com/dev/template?url=http://github.com/RafalWilinski/serverless-medium-text-to-speech)
 
 ## Prerequisites:
