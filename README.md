@@ -43,7 +43,7 @@ npm run deploy
 curl -X POST \
   https://bt1wb4iwpf.execute-api.us-east-1.amazonaws.com/dev/transcode \
   -d '{
-	"href": "https://medium.com/the-mission/11-reasons-i-sacrifice-money-to-work-wherever-i-want-21e9ce36f2b"
+	"href": "https://medium.com/the-mission/11-reasons-i-sacrifice-money-to-work-wherever-i-want-21e9ce36f2b7"
 }'
 ```
 
